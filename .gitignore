@@ -361,3 +361,21 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/XR
+/Library
+/ProjectSettings
+/.utmp/RelWithDebInfo/25d5p1s4
+/Assets/Samples/XR Interaction Toolkit/2.5.4
+/Assets/Scenes
+/Assets/XRI/Settings
+/Temp
+/UserSettings
+/.vsconfig
+/Assembly-CSharp.csproj
+/attempt_0.apk
+/attempt_asd_dasd_1.apk
+/attempt_asd_dasd_2.apk
+/NativeAttempt.sln
+/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj
+/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj
+/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj
